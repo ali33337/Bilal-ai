@@ -1,0 +1,6 @@
+{
+  "name": "Bilal AI",
+  "description": "A professional AI Chatbot companion powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
